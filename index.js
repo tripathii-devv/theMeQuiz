@@ -35,6 +35,9 @@ var questions=[{
   },{
   question: "Which climate is my favourite ?",
   answer: "winters"
+  },{
+    question: "Which is my favourite IPL Team",
+    answer: "kkr"
   }]
 
 for(var i=0; i<questions.length; i++){
