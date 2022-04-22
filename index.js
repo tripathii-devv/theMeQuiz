@@ -21,22 +21,22 @@ function play(question,answer)
   }
 //array of objects
 var questions=[{
-  question: 'what is my full name ?',
+  question: 'what is my full name ? ',
   answer: 'dev tripathi'
 }, {
-  question: "Where do I live ?",
+  question: "Where do I live ? ",
   answer: "kanpur"
                },{
-  question: "What is my favourite hobby ?",
+  question: "What is my favourite hobby ? ",
   answer: 'gaming'
 },{
-  question: "What is my favorite food ?",
+  question: "What is my favorite food ? ",
   answer: 'pizza'
   },{
-  question: "Which climate is my favourite ?",
+  question: "Which climate is my favourite ? ",
   answer: "winters"
   },{
-    question: "Which is my favourite IPL Team",
+    question: "Which is my favourite IPL Team ? ",
     answer: "kkr"
   }]
 
